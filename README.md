@@ -1,2 +1,2 @@
-# Simple-Claculator
+# Simple-Calculator
 My first Projects
