@@ -1,4 +1,4 @@
-# Simple-Calculator
+# Simple_Calculator
 My First Projects
 <br>
-Creator Ramhari Madhe
+Create Ramhari Madhe
